@@ -1,7 +1,7 @@
-# Hey, I'm Carlos Rupérez 👋
+# Hey, I'm Carlos Rupérez 🤩
 
 <a href="https://github.com/carlosruperez">
-    <img src="assets/github.png" width="64">
+    <img src="assets/github.svg" width="64">
 </a>
 <a href="https://www.linkedin.com/in/carlos-rup%C3%A9rez-hibern%C3%B3n-4001b3b6/">
     <img src="assets/linkedin.png" width="64">
